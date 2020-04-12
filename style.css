@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  background-color: blue;
+  height: 500px;
+  width: 500px;
+  flex-direction: column;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.card-title {
+  font-size: 75px;
+}
+
+.horizontal-center {
+  display: flex;
+  justify-content: center;
+}
